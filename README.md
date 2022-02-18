@@ -6,6 +6,7 @@
 
 ## I am Undergraduate Software Engineer, Back-End Developer.
 
+- 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about computational intelligence 
