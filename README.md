@@ -6,11 +6,12 @@
 
 ## I am Undergraduate Software Engineer, Back-End Developer.
 
+- ⚡ Holds a Bachelor's degree in Computer Science
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about computational intelligence 
-- ⚡ Fun fact: I love to play chess
+
 
 ### Connect with me:
 
