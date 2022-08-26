@@ -14,7 +14,9 @@
 
 
 ### Connect with me:
-
+[![website](./img/leetcode-light.svg)](https://leetcode.com/AhmedIssa/#gh-light-mode-only)
+[![website](./img/leetcode-dark.svg)](https://leetcode.com/AhmedIssa/#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./img/globe-light.svg)](AhmedIssa11.github.io#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](AhmedIssa11.github.io#gh-dark-mode-only)
 &nbsp;&nbsp;
