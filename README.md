@@ -15,6 +15,11 @@
 
 ### Connect with me:
 
+<a href="https://leetcode.com/AhmedIssa"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="25" width="25" ></a>
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ahmed-issa101/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ahmed-issa101/#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![website](./img/globe-light.svg)](AhmedIssa11.github.io#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](AhmedIssa11.github.io#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -23,9 +28,6 @@
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/AhmedIssa101#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/AhmedIssa101#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ahmed-issa101/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ahmed-issa101/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/a_issa101/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/a_issa101/#gh-dark-mode-only)
@@ -51,12 +53,15 @@
 ---
 
 
-<details>
+<details margin=10px>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ahmed Issa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedIssa11&hide=prs&show_icons=true&theme=highcontrast" />
+  <img align="left" alt="Ahmed Issa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AhmedIssa11&hide=prs&show_icons=true&theme=highcontrast"/>
 
 </details>
+
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/AhmedIssa)](https://leetcode.com/AhmedIssa)
 
 [website]: AhmedIssa11.github.io
 [twitter]: https://twitter.com/AhmedIssa101
