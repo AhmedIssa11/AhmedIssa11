@@ -1,9 +1,5 @@
 # Hi there, I'm Ahmed 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnQ09PvOIx3UkJ4f_BFBOTg?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=AhmedIssa.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://AhmedIssa11.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/AhmedIssa101?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
-
 ## I am Machine Learning Engineer, Problem Solver.
 
 - ⚡ Holds a Bachelor's degree in Computer Science
