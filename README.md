@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Learn more about computational intelligence 
+- 🥅 2024 Goals: Contribute in Generative AI projects
 
 
 ### Connect with me:
