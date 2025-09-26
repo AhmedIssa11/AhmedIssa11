@@ -1,32 +1,13 @@
 # Hi there, I'm Ahmed 👋 
 
-## I am Machine Learning Engineer, Problem Solver.
-
-- ⚡ Holds a Bachelor's degree in Computer Science
-- 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Contribute in Generative AI projects
-
+## AI Engineer, Problem Solver.
 
 ### Connect with me:
 
-<a href="https://leetcode.com/AhmedIssa"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="25" width="25" ></a>
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ahmed-issa101/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ahmed-issa101/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/globe-light.svg)](AhmedIssa11.github.io#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](AhmedIssa11.github.io#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCnQ09PvOIx3UkJ4f_BFBOTg#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCnQ09PvOIx3UkJ4f_BFBOTg#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/AhmedIssa101#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AhmedIssa101#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/a_issa101/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/a_issa101/#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
@@ -59,9 +40,5 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/AhmedIssa)](https://leetcode.com/AhmedIssa)
 
-[website]: AhmedIssa11.github.io
-[twitter]: https://twitter.com/AhmedIssa101
-[youtube]: https://www.youtube.com/channel/UCnQ09PvOIx3UkJ4f_BFBOTg
-[instagram]: https://www.instagram.com/a_issa101/
 [linkedin]: https://www.linkedin.com/in/ahmed-issa101/
 
